@@ -2,8 +2,10 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
+I'm an advanced telegram bot with many capabilities!
 There is no practical limits for my filtering capacity :)
+ 
+ @botmaker_tg
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -48,16 +50,20 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @botmaker_tg</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Robot 🤖</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater    :</b> @botmaker_tg
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Language   :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Maintenance:</b> Amal Noufal Mirshad
+
+⭕️<b>Library    :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+
+ഇതു പോലെയുള്ള bot നിങ്ങൾക്ക് വേണമെങ്കിൽ കോൺടാക്ട് ചെയ്യൂ @botmaker_tg 😁
 
 """
