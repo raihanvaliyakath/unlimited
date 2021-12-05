@@ -243,7 +243,7 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
+                    InlineKeyboardButton("Full Code😊", url="https://github.com/mirshad517/unlimited.git"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
@@ -265,7 +265,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "🤖 Code 🤖", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
+                        " Full Code 😊", url="https://github.com/mirshad517/unlimited.git")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
