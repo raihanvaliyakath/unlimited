@@ -1,11 +1,11 @@
 class Script(object):
 
-    START_MSG = """<b>Hy {},
+    START_MSG = """<b>Hy I am a bot like @MT_ID_BOT DEV [THIS PERSON] (t.me/RAIHAN_TG)
 
 I'm an advanced telegram bot with many capabilities!
 There is no practical limits for my filtering capacity :)
  
- @botmaker_tg
+ @RAIHAN_TG
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -50,20 +50,20 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @botmaker_tg</b>
+<b>© @RAIHAN_TG</b>
 """
 
 
     ABOUT_MSG = """⭕️<b>My Name : Robot 🤖</b>
 
-⭕️<b>Creater    :</b> @botmaker_tg
+⭕️<b>Creater    :</b> [I AM] (t.me/RAIHAN_TH)
 
 ⭕️<b>Language   :</b> <code>Python3</code>
 
-⭕️<b>Maintenance:</b> Amal Noufal Mirshad
+⭕️<b>Maintenance:</b> @rv1_tg
 
 ⭕️<b>Library    :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-ഇതു പോലെയുള്ള bot നിങ്ങൾക്ക് വേണമെങ്കിൽ കോൺടാക്ട് ചെയ്യൂ @botmaker_tg 😁
+ഇതു പോലെയുള്ള bot നിങ്ങൾക്ക് വേണമെങ്കിൽ കോൺടാക്ട് ചെയ്യൂ @RAIHAN_TG 😁
 
 """
